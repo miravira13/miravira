@@ -1,8 +1,8 @@
 # The Open Source AI Agent Application Framework
 ## Connect LLMs to your existing application focused on your business
 
-[![website(https://img.shields.io/badge/webiste-website)](https://img.shields.io/hexpm/l/plug.svg)](https://www.miravira.tech/)
-[![twitter(https://img.shields.io/badge/twitter-X)](https://img.shields.io/hexpm/l/plug.svg)](https://x.com/miravira_ai)
+[![website](https://img.shields.io/badge/webiste-website)](https://www.miravira.tech/)
+[![twitter](https://img.shields.io/badge/twitter-X)](https://x.com/miravira_ai)
 [![Apache 2.0](https://img.shields.io/hexpm/l/plug.svg)](https://raw.githubusercontent.com/Oceania2018/Miravira/master/LICENSE) 
 [![NuGet](https://img.shields.io/nuget/dt/Miravira.Core.svg)](https://www.nuget.org/packages/Miravira.Core) 
 [![Build status](https://ci.appveyor.com/api/projects/status/qx2dx5ca5hjqodm5?svg=true)](https://ci.appveyor.com/project/Haiping-Chen/Miravira)
